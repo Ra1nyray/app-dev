@@ -1,9 +1,8 @@
-# The Mentalist (2008)
+# The Mentalist 
 
-## About My Favorite Series
+## About My Current Favorite Series
 
-**The Mentalist** is an American crime drama and mystery
-television series that premiered in 2008.
+**The Mentalist** The Mentalist is an American crime drama television series that premiered in 2008. It follows Patrick Jane, a highly observant man who uses his exceptional skills in reading people's behavior and noticing small details to help solve criminal cases.
 
 *My favorite series is The Mentalist because it has exciting
 mysteries, intelligent characters, and unexpected twists.*
