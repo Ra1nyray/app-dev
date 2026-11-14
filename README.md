@@ -60,16 +60,6 @@ I think The Mentalist is ==an amazing television series==.
 The show reminds me that observation and intelligence
 are important when solving problems.
 
-## Interesting Formatting
-
-**Bold:** Patrick Jane is intelligent.
-
-*Italic:* The Mentalist is entertaining.
-
-~~This is not my favorite series.~~
-
-`Patrick Jane`
-
 ## Series Reference
 
 [The Mentalist on IMDb](https://www.imdb.com/title/tt1196946/)
@@ -82,6 +72,6 @@ The Mentalist premiered in 2008.[^1]
 
 ## Final Thoughts
 
-***The Mentalist is one of my all-time favorite series!***
+***The Mentalist is one of my favorite series!***
 
 It is entertaining, mysterious, and full of surprises.
